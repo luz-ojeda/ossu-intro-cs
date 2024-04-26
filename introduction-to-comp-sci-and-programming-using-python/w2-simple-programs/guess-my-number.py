@@ -3,7 +3,7 @@ n = input('Please think of a number between 0 and 100! ')
 numGuesses = 0
 
 low = 0
-high = int(n) + 1
+high = 100
 ans = (high + low) // 2
 
 while ans != n:
