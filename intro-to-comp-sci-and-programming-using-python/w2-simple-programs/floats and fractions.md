@@ -1,0 +1,1 @@
+Internal representation of fractional numbers is always an approximation because there is no integer p such that $x*(2^p)$ is a whole number
