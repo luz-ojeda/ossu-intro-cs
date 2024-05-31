@@ -32,7 +32,6 @@
 
 ### Notes
 - [Tuples and Lists](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w3-structured-types/tuples%20and%20lists.md)
-- [Dictionaries](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w3-structured-types/dictionaries.md)
 
 ### Scripts
 - [Odd Tuples](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w3-structured-types/odd-tuples.py)
@@ -44,9 +43,9 @@
 ## Week 4: Good Programming Practices
 
 ### Notes
-- [Testing and Debugging](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w3-structured-types/testing%20and%20debugging.md)
-- [Exceptions and Assertions](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w3-structured-types/exceptions%20and%20assertions.md)
-- [Exceptions as Control Flow](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w3-structured-types/exceptions%20as%20control%20flow.md)
+- [Testing and Debugging](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w4-good-programming-practices/testing%20and%20debugging.md)
+- [Exceptions and Assertions](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w4-good-programming-practices/exceptions%20and%20assertions.md)
+- [Exceptions as Control Flow](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w4-good-programming-practices/exceptions%20as%20control%20flow.md)
 
 ### Problem set: Wordgame similar to Scrabble
-- [Base game](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w2-simple-programs/problem-set-3/ps4a.py)
+- [Base game](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w2-w4-good-programming-practices/problem-set-4/ps4a.py)
