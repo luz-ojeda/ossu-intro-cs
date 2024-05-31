@@ -48,4 +48,4 @@
 - [Exceptions as Control Flow](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w4-good-programming-practices/exceptions%20as%20control%20flow.md)
 
 ### Problem set: Wordgame similar to Scrabble
-- [Base game](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w2-w4-good-programming-practices/problem-set-4/ps4a.py)
+- [Base game](https://github.com/luz-ojeda/ossu-intro-cs/blob/master/intro-to-comp-sci-and-programming-using-python/w4-good-programming-practices/problem-set-4/ps4a.py)
