@@ -1,3 +1,4 @@
+# Intro CS
 Notes and solutions to exercises and problems from [Intro CS](https://github.com/ossu/computer-science?tab=readme-ov-file#intro-cs) OSSU curriculum section
 
 ## [MITx Introduction to Computer Science and Programming Using Python](https://github.com/luz-ojeda/ossu-intro-cs/tree/master/intro-to-comp-sci-and-programming-using-python)
